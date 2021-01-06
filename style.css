@@ -1,0 +1,85 @@
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serf;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    color: brown;
+}
+#jh{
+    font-size: 20px;
+    color: dimgray;
+}
+#jh3{
+    font-size: 30px;
+    color: navy;
+}
+
+p{
+    color:dimgray ;
+}
+#hello{
+    color: blue;
+}
+#jamal{
+    color:brown;
+}
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(50deg,lightsalmon,tomato) ;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin:left 25%;
+    padding: 5%;
+}
+  .half-width img{
+      width: 60%;
+    }
+    section{
+        height: 400px;
+        padding-bottom: 150px;
+    }
+    .orange{
+        color: orange;
+        text-decoration: none;
+    }
+    .center{
+        text-align: center
+    }
+    .new{
+        width: 15%;
+        float: left;
+        margin: 5%;
+        padding: 0%;
+        background-color: rgba(42, 161, 165, 0.712)165, 42, 42, 0.829)165, 42, 42, 0.829);
+       
+    }
+    .new img{
+        width: 100%; 
+
+        
+    }
+    .color{
+        width:60%;
+        margin-left: 20%;
+        padding: 2%;
+        background-image: url(images/jh3.png);
+        background-size: cover
+    
+    }
+    .finish{
+        text-align: center
+    }
+    .happy{
+        text-align:center;
+        
+    }
